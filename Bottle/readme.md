@@ -1,3 +1,4 @@
+# Lesson 2: Bottle 3d Model
 Now, I took on the challenge of modeling a bottle. 
 This project helped me build on the skills I learned while creating the LEGO piece, 
 as I had to work with more complex shapes and commands. Designing the bottle allowed me to explore new tools and techniques in Fusion 360, 
